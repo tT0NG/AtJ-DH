@@ -1,7 +1,6 @@
-# AtJ-DH
-Dense Scene Information Estimation Network for Dehazing
+## Dense Scene Information Estimation Network for Dehazing
 
-# Executable/source code downloadable links.
+## Executable/source code downloadable links.
 
 [At-DH Model and Code](https://drive.google.com/drive/folders/1d_N-dlj3NJ2tSWQ6wnPJ7tBAmpL-dtm_?usp=sharing)
 
